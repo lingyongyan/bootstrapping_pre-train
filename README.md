@@ -7,7 +7,7 @@ the pre-training dataset can be find [here](https://drive.google.com/file/d/1Ow6
 
 ## Pre-training and Fine-tuning
 ### pre-training
-### self-supervised
+#### self-supervised
 ```bash
 python pretrain_self.py --out_model_file models/xxx1
 ```
