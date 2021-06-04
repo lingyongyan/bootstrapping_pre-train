@@ -1,7 +1,7 @@
 # Global Bootstrapping Neural Network for Entity Set Expansion
 The source codes for EMNLP:fingdings(2020) paper:[Global Bootstrapping Neural Network for Entity Set Expansion](https://www.aclweb.org/anthology/2020.findings-emnlp.331.pdf)
 ## Dataset
-the bootstrapping dataset can be downloaded from the yan et al.(2020)[End-to-end bootstrapping neural network for entity set expansion](https://aaai.org/ojs/index.php/AAAI/article/view/6482/6338) or directly from (Google Driver)(https://drive.google.com/file/d/1Ow6Rf_LIilKvm0dVuJSF5dGigTMosOQq/view?usp=sharing).
+the bootstrapping dataset can be downloaded from the yan et al.(2020)[End-to-end bootstrapping neural network for entity set expansion](https://aaai.org/ojs/index.php/AAAI/article/view/6482/6338) or directly from [Google Driver]https://drive.google.com/file/d/1Ow6Rf_LIilKvm0dVuJSF5dGigTMosOQq/view?usp=sharing).
 
 the pre-training dataset can be find [here](https://drive.google.com/file/d/1CulQu5oixrhBev4ECFhTQARiaCghwHtM/view?usp=sharing)
 
