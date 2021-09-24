@@ -9,11 +9,11 @@ the pre-training dataset can be find [here](https://drive.google.com/file/d/1Cul
 ### pre-training
 #### self-supervised
 ```bash
-python pretrain_self.py --out_model_file models/xxx1
+python pretrain_self.py --output_model_file models/xxx1
 ```
 #### supervised
 ```bash
-python pretrain_sup.py --input_model_file models/xxx1 --out_model_file models/xxx2
+python pretrain_sup.py --input_model_file models/xxx1 --output_model_file models/xxx2
 ```
 ### fine-tuing
 to run the model please input like
